@@ -32,7 +32,7 @@ Each of these three parts usually lasts about 15 minutes, for a total of 45-ish 
 
 ### Coding problem list
 
-1. Monty Hall problem **(examinable)**; pdf of the log **(optional)**[[see L02]](lectures/L02_probability.ipynb)
+1. Monty Hall problem **(examinable)**; pdf of the log **(optional)** [[see L02]](lectures/L02_probability.ipynb)
 2. Nasty integral; kicking horses **(optional, both)** [[see L03]](lectures/L03_probability.ipynb)
 3. Cloning quasars **(optional)** [[see L04]](lectures/L04_probability.ipynb)
 4. Position of a star **(examinable)** [[see L05]](lectures/L05_frequentist.ipynb)
